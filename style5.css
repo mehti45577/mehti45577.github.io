@@ -1,0 +1,46 @@
+.content{
+	background: red;
+    margin: 0px auto;
+	text-align: center;
+
+}
+
+nav{
+	width: 100%;
+	background-color: green;
+
+}
+
+nav ul{
+    text-decoration: none;
+    display: inline-block;
+    border-bottom: 3px dashed inline-block;
+    background-color: green;
+
+}
+
+nav ul li{
+	display: inline-block;
+	width: 100px;
+	height: 60px;
+	background-color: yellow;
+
+ }
+
+
+
+ nav ul li a{
+ 	display: inline-block;
+    text-decoration: none;
+    width: 100px;
+    height: 40px;
+    padding-top: 20px;
+    background-color: palegreen;
+
+ }
+ nav ul li a:hover{
+ 	background-color: yellowgreen;
+
+ }
+ 
+
